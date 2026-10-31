@@ -1,7 +1,13 @@
-# Olawale Adeyanju — MIT 8103
+# Digital Event Ticketing Solution for the Hospitality Industry
 
-Student ID: 301914496
+Olawale Adeyanju · Student ID 301914496
 
-Digital Event Ticketing Solution for the Hospitality Industry
+The portfolio uses fictional records for Digital Event Ticketing Solution for the Hospitality Industry.
 
-The portfolio is being generated. Completed stages will appear in the commit history.
+- [Portfolio 1](portfolio-1-database-design/)
+- [Portfolio 2](portfolio-2-query-optimisation/)
+- [Portfolio 3](portfolio-3-transactions-concurrency/)
+- [Portfolio 4](portfolio-4-nosql/)
+- [Portfolio 5](portfolio-5-distributed-cloud/)
+
+[Final summary](Adeyanju_Olawale_301914496_FinalSummary.md) · [PDF](Adeyanju_Olawale_301914496_FinalSummary.pdf)
